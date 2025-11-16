@@ -68,7 +68,7 @@ main{
     display: flex;
     flex-wrap: wrap;
     gap: 0.65rem;
-    padding: 1rem;
+    padding: 0.5rem 0.8rem;
     overflow-x: auto;
 }
 .bottom div{
@@ -147,6 +147,7 @@ h2{
     .bottom div{
         height:2rem;
     width: 2.1rem;
+    padding-left: 0.1rem;
     }
     .scorebox{
         padding: 0.2rem 0.5rem;
